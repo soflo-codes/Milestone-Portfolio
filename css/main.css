@@ -1,0 +1,141 @@
+/***** GRID *****/
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
+.half-width {
+    float: left;
+    margin: 0 auto;
+    width: 600px;
+}
+.third-width {
+    float: left;
+    margin: 0 auto;
+    width: 400px;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #ffffff;
+    height: 800px;
+}
+header h1 {
+    color: #313131;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 64px;
+    font-weight: bold;
+    padding: 150px 5px 5px 10px;
+}
+header h1 span {
+    color: #ff654a;
+}
+header h2 {
+    color: #313131;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 350;
+}
+nav {
+    float: right;
+}
+ul li {
+    display: inline-block;
+    padding: 12px;
+}
+nav ul li a {
+    color: #313131;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+/***** ABOUT *****/
+
+#about {
+    background-color: #ff654a;
+    color: #ffffff;
+    height: 1050px;
+}
+#about-container {
+    padding: 150px 300px 0 300px;
+    text-align: center;
+}
+#about h3 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 36px;
+}
+#about h4 {
+    font-family: 'Open-Sans', serif;
+    font-size: 24px;
+}
+#about p {
+    font-family: 'Open-Sans', serif;
+    font-size: 24px;
+}
+
+/***** PORTFOLIO ******/
+
+#portfolio {
+    background-color: #ffffff;
+    color: #313131;
+    height: 850px;
+    text-align: center;
+}
+#portfolio h3 {
+    font-size: 36px;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    padding: 110px 0 70px 0;
+}
+#portfolio .title {
+    font-family: 'Open-Sans', serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 27px;
+}
+#portfolio p {
+    font-family: 'Open-Sans', serif;
+    font-size: 27px;
+    font-weight: 100;
+    margin: 0;
+    padding: 2px;
+}
+/***** CONTACT *****/
+
+#contact {
+    background-color: #ff654a;
+    height: 650px;
+    padding-top: 300px;
+    text-align: center;
+}
+#contact h3 {
+    color: #ffffff;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 36px;
+}
+#social-media-icons {
+    color: #ffffff;
+    padding-right: 47px;
+}
+#contact h4 {
+    color: #ffffff;
+    font-family: 'Open-Sans', serif;
+    font-size: 24px;
+}
+#contact p {
+    color: #ffffff;
+    font-family: 'Open-Sans', serif;
+    font-size: 22px;
+}
+h5 {    
+    color: #ffffff;
+    clear: both;
+    font-family: 'Open-Sans', serif; 
+    font-size: 17px;
+    font-weight: normal;
+    margin-bottom: 0;
+    padding-top: 320px;
+}
